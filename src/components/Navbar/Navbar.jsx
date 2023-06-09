@@ -9,7 +9,7 @@ import Button from '../../components/Button/Button';
 
 const Navbar = () => {
 
-  var User = 123;
+  var User = null;
 
   return (
     <nav>
